@@ -1,2 +1,2 @@
-# tesca
+# tezca
 Tezca.store website
