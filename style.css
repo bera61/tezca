@@ -79,14 +79,14 @@ body{
     overflow: hidden;
     height: 80px;
     width: 520px;
-    opacity: 0;
+    opacity: 100;
     transform: translateY(30px);
     transition-delay: .3s;
     transition: all .3s ease;
 }
 .description p {
     color: #b0b0ba;
-    padding-top: 5px;
+    padding-top: 25px;
 }
 .description h4{
     text-transform: uppercase;
@@ -104,5 +104,8 @@ input :checked + label .description{
 
 }
 .card[for="c1"]{
-    background-image: url(+4.jpg);
+    background-image: url(+4yeni.png);
+}
+.card[for="c2"]{
+    background-image: url(keller.png);
 }
